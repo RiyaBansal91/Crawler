@@ -28,6 +28,7 @@ struct node
 	  int visited;
           int key;
 };
+
 struct hash
 {
   struct node*clusthead;
